@@ -8,7 +8,7 @@
 对外提供--【物品增加】
 
 #App
-    被动注入UI，调用DataService,建立modelBag
+    被动注入UI，通过DomainFactory简历BagDomain
 
 #UI
     引用DTO

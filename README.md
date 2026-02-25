@@ -6,12 +6,12 @@ https://copejay.github.io/project/game1.html
 
 ## 项目简介
 独立开发的 2D 修真题材养成游戏，采用 DDD 分层架构设计。
+抽奖，战斗获取资源，背包管理资源，角色培养消耗资源，实现资源循环利用
 
 ## 技术栈
 - Cocos Creator 3.8
 - TypeScript
 - DDD / 模块化
-- 本地存档系统
 - 数据驱动配置
 
 ## 核心系统（实现资源循环）
