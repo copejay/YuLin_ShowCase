@@ -22,7 +22,6 @@ https://copejay.github.io/project/game1.html
 
 ## 项目规模
 - 核心逻辑代码约 1.2 万行
-- 配置数据约 2k 行
 
 ## 联系方式
 2711607950@qq.com
